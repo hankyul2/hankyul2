@@ -29,6 +29,7 @@
 | Type              | Date              | Contents                                     | Organization                     | Repository                                                   |
 | ----------------- | ----------------- | -------------------------------------------- | -------------------------------- | ------------------------------------------------------------ |
 | 🏢 Internship      | 2021.01 ~ Now     | Laboratory under Prof.Jongbin Ryu            | Ajou University                  | -                                                            |
+| 🎡 Project         | 2021.03 ~ 2021.06 | 동영상 검색 및 요약 서비스 개발             | FindU(Ajou University)           | [FindU](https://github.com/SWCapstone2021/WebPage) |
 | 🎡 Project         | 2020.11 ~ 2020.12 | 음식 추천 및 시장 분석 어플 개발             | Woowa(Ajou University)           | [Woowa](https://github.com/hankyul-needs-girfriends/woowa-android-main-) |
 | 🎡 Project         | 2020.09 ~ 2020.10 | IsolaA를 이용한 "Autosar" toy project        | 귀여운 고슴도치(Ajou University) | [toy_autosar](https://github.com/hankyul2/toy_autosar)       |
 | 🎡 Project         | 2020.09 ~ 2020.01 | 고등학생 전용 어플리케이션 "도담도담" 서비스 | DumDum(Ajou University)          | [android](https://github.com/Algostu/dodam-android) [server](https://github.com/Algostu/dodam-appserver) |
