@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently studying on Ajou University as Undergraduate Student
 - 🌱 I’m currently learning [algorithm](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) and machine learning and meta learning
-- ✨ Not Good at `python`, `c++`, `computer vision`, `vue`, `nodejs`, `java`. So if you are good at these, pls contact me :) I want to learn 
+- ✨ Not Good at `python`, `c++`, `computer vision`, `vue`, `nodejs`. So if you are good at these, pls contact me :) I want to learn 
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with Algorithm which is my worst part
 - 💬 Ask me about something funny
