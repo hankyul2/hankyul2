@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently studying on Ajou University as Undergraduate Student
 - 🌱 I’m currently learning machine learning and meta learning
-- ✨ I'm interested in `cv`, `nlp`, `image classification`, `face recognition`
+- ✨ I'm interested in `cv`, `nlp`, `image classification`, `face recognition`, 'domain adaptation`
 - 👯 I’m looking to collaborate on any project
 - 💬 Ask me about something funny
 - 📫 How to reach me: consistant1y@ajou.ac.kr
