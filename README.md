@@ -1,18 +1,6 @@
-### Hi there 👋  
+### Hi there 👋  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhankyul2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-#### 🍿Some small facts
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhankyul2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hankyul2)](https://velog.io/@hankyul2) 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hankyul2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankyul2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-#### 🍕My name is hankyul. I want to introduce myself.
+#### My name is hankyul. I want to introduce myself. 
 
 - 😄 hi 👋
 - 🔭 I’m currently studying on Ajou University as Undergraduate Student
@@ -20,6 +8,8 @@
 - ✨ I'm interested in `cv`, `image classification`, `face recognition`, `domain adaptation`
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: consistant1y@ajou.ac.kr
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hankyul2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankyul2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🍙Experience
 
@@ -35,4 +25,3 @@
 | 🏆 Contest Exhibit | 2019.11 ~ 2020.01 | 금융 문자 분석 경진 대회                     | KB 금융그룹                      | [NLP/pytorch-models](https://github.com/Rhcsky/Rhcsky/tree/master/ML/Deep_Learning/NLP/pytorch-models) |
 | 🏆 Contest Exhibit | 2019.08 ~ 2019.12 | 2019 공개SW 개발자 대회                      | 과학기술정보통신부, nipa         | [chungyo](https://github.com/hankyul2/chungyo)               |
 | 🏫 Education       | 2016.03 ~ 2022.02 | Department of software                       | Ajou University                  | -                                                            |
-
