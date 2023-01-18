@@ -5,11 +5,11 @@
 - 😄 hi 👋
 - 🔭 I’m currently studying on Ajou University as Undergraduate Student
 - 🌱 I’m currently learning machine learning and meta learning
-- ✨ I'm interested in `cv`, `image classification`, `face recognition`, `domain adaptation`
+- ✨ I'm interested in `cv`, `image classification`, `face recognition`, `domain adaptation`, `VAE`, `SSL`, `Diffusion`
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: consistant1y@ajou.ac.kr
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hankyul2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankyul2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hankyul2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankyul2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 #### 🍙Experience
 
