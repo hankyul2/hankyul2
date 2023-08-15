@@ -2,10 +2,10 @@
 
 #### My name is hankyul. I want to introduce myself. 
 
-- 😄 hi 👋 I'm focusted on studying computer vision architecture.
-- 🔭 I’m currently studying on the Ajou university as master student.
-- ✨ I'm interested in `computer vision`, `neural network architecture`, `SSL`.
-- 🌱 I'm learning on `face recognition`, `domain adaptation`, `VAE`, `Diffusion`.
+- 😄 hi 👋 I'm studying computer vision architecture.
+- 🔭 I’m currently studying at Ajou University as a master's student.
+- ✨ I'm interested in `computer vision`, `neural network architecture`, and `SSL`.
+- 🌱 I'm learning about `face recognition`, `domain adaptation`, `VAE`, and `Diffusion`.
 - 📫 How to reach me: consistant1y@ajou.ac.kr
 <!-- 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hankyul2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankyul2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
