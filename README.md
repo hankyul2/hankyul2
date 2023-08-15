@@ -2,7 +2,7 @@
 
 #### My name is hankyul. I want to introduce myself. 
 
-- 😄 hi 👋 I'm studying computer vision architecture.
+- 😄 hi 👋 I'm learning computer vision architecture.
 - 🔭 I’m currently studying at Ajou University as a master's student.
 - ✨ I'm interested in `computer vision`, `neural network architecture`, and `SSL`.
 - 🌱 I'm learning about `face recognition`, `domain adaptation`, `VAE`, and `Diffusion`.
